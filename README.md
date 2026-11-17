@@ -1,7 +1,6 @@
 # Formation Python — CBC
 
 Extrait essentiel de la formation Python (Jour 1 et Jour 2), adapté pour CBC.
-Dataset et exemples rebaptisés CBC . Formation originale complète non modifiée, dans les dossiers `Jour_1_...` / `Jour_2_...` à la racine du repo.
 
 ## Structure
 
